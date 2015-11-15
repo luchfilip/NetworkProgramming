@@ -10,6 +10,7 @@
 I had to use Windows from VirtualBox, because `QuickChat` is not available on OSX.
 
 In order to analyze packets sent by QuickChat I followed the following steps:
+
 1. I have installed WireShark
 2. Started Quickchat 
 3. Started Live Capture on Ethernet
