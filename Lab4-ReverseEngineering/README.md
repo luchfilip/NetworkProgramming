@@ -48,7 +48,7 @@ Here is the list of events/actions and their meaning:
    `4WEED.#UTM.20` join channel `UTM`
 
 #### Conclusion
-While working with packets sniffing I understood how simply packets are sent in QuickChat and their notation. Of course this is a bad practice to send the packets without encrypting them, because someone could as well capture the packets and read private messages of other participants. I would suggest two ways to overcome this issue:
+While working with packets sniffing I understood how simply packets are sent in QuickChat and their notation. Of course this is a bad practice to send the packets without encrypting them, because someone could as well capture the packets and read private messages of other participants. Also by knowing the exact way communication is implemented, one could send commands and control a user without having access to it; even send messages from other users. I would suggest two ways to overcome this issue:
 
 1. Send packets through an `SSL` certificate, which would encrypt the connection. In `Java` I would do it this way:
 
