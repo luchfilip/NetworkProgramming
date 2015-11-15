@@ -19,10 +19,10 @@ In order to analyze packets sent by QuickChat I followed the following steps:
 ![UPD Packet Captured](http://i.imgur.com/fPFLnPR.jpg "UDP Packet")
 6. As we can see, upon sending `mama` to myself, I could capture the packet. Let's see what inside.
 7. by looking at detailed packet info, we can see:
-	IP: 10.0.2.15 (which is the virtual machine ip in its virtual network inside virtualBox)
-	Source port: 57447
-	Destination port: 8167
-	The data: `J2FEEL.FEEL.ma ma.` (I dont know what the space is doing between `ma` and `ma`, but this string should mean that a message is sent from FEEL to FEEl, and the message is `mama`)
+  * IP: 10.0.2.15 (which is the virtual machine ip in its virtual network inside virtualBox)
+  * Source port: 57447
+  * Destination port: 8167
+  * The data: `J2FEEL.FEEL.ma ma.` (I dont know what the space is doing between `ma` and `ma`, but this string should mean that a message is sent from FEEL to FEEl, and the message is `mama`)
 
 ![Packet Details](http://i.imgur.com/gH2AXSX.jpg "Packet Details")
 
