@@ -1,0 +1,3635 @@
+***  Installation Started 01/25/04 15:37  ***
+Title: quickChat 1.5 Installation
+Source: C:\DOCUME~1\АДМИНИ~1\LOCALS~1\Temp\~TGCCKPX.tmp
+Made Dir: C:\Program Files\quickChat
+File Copy: C:\Program Files\quickChat\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\quickChat 1.5
+RegDB Val: quickChat 1.5
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\quickChat 1.5
+RegDB Val: C:\PROGRA~1\QUICKC~1\UNWISE.EXE C:\PROGRA~1\QUICKC~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\Program Files\quickChat\Default settings.reg
+Made Dir: C:\Program Files\quickChat\Sounds
+File Copy: C:\Program Files\quickChat\Sounds\user_online.wav
+File Copy: C:\Program Files\quickChat\File_id.diz
+File Copy: C:\Program Files\quickChat\License.txt
+File Copy: C:\Program Files\quickChat\quickChat.exe
+File Copy: C:\Program Files\quickChat\Register.txt
+Made Dir: C:\Program Files\quickChat\Russian
+File Copy: C:\Program Files\quickChat\Russian\Contacts.txt
+File Copy: C:\Program Files\quickChat\Russian\File_id.diz
+File Copy: C:\Program Files\quickChat\Russian\ReadMe.txt
+File Copy: C:\Program Files\quickChat\Russian\Register.txt
+File Copy: C:\Program Files\quickChat\Russian\WhatsNew.txt
+File Copy: C:\Program Files\quickChat\Sounds\beep.wav
+File Copy: C:\Program Files\quickChat\Sounds\channel_join.wav
+File Copy: C:\Program Files\quickChat\Sounds\channel_leave.wav
+File Copy: C:\Program Files\quickChat\Sounds\chat_line.wav
+File Copy: C:\Program Files\quickChat\Sounds\execute.wav
+File Copy: C:\Program Files\quickChat\Sounds\join_network.wav
+File Copy: C:\Program Files\quickChat\Sounds\leave_network.wav
+File Copy: C:\Program Files\quickChat\Sounds\mass_message.wav
+File Copy: C:\Program Files\quickChat\Sounds\me_line.wav
+File Copy: C:\Program Files\quickChat\Sounds\message.wav
+File Copy: C:\Program Files\quickChat\Sounds\nick_change.wav
+File Copy: C:\Program Files\quickChat\Sounds\private_finish.wav
+File Copy: C:\Program Files\quickChat\Sounds\private_start.wav
+File Copy: C:\Program Files\quickChat\Sounds\topic_change.wav
+Made Dir: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Uninstall quickChat.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Registration info.lnk
+Made Dir: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\Contacts.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\Whats New.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Registration Info.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\xUSSR Registration Info.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\License of Agreement.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\Автозагрузка\quickChat 1.5.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\quickChat 1.5.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Default settings.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\Администратор\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: AllowExecution
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: AutoAnswer
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: CurrentNick
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: ExecPass
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: FlashInTray
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Gender
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 400
+RegDB Name: Height
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Top
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 500
+RegDB Name: Width
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Left
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 98
+RegDB Name: Splitter1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 44
+RegDB Name: Splitter2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 24
+RegDB Name: Splitter3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 44
+RegDB Name: Splitter4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: AllowChanList
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Language
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogChat
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: LogDir
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogMess
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogPriv
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: PopuponNewLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: PopuponPrivateChat
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: RefreshTime
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: SavePositionOnExit
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: ScrollChat
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: SendEmptyLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: SoundonOwnLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Status
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TabsPosition
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TabsStyle
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: TimestampSystem
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TimestampUser
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: Usetooltips
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: WindowState
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16711680
+RegDB Name: Col1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 32768
+RegDB Name: Col2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 128
+RegDB Name: Col3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 128
+RegDB Name: Col4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8388736
+RegDB Name: Col5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8388608
+RegDB Name: Col6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8421376
+RegDB Name: Col7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 12632256
+RegDB Name: Col8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 255
+RegDB Name: Col9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16711935
+RegDB Name: Col10
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col11
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col12
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col13
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col14
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col15
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col16
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col17
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col18
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col19
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: System
+RegDB Name: Name
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 10
+RegDB Name: Size
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 1
+RegDB Name: Style
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 1
+RegDB Name: CharSet
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F12
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F10
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F11
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: NReceiveInDND
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: TReceiveInDND
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: NConfirm
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: TConfirm
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 1
+RegDB Name: UpdateHistory
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Socket
+RegDB Val: 8167
+RegDB Name: UDPPort
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Socket
+RegDB Val: 8167
+RegDB Name: IPXPort
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\OnlineAlert
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Ignore
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ChannelsList
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Socket\UDPAdress
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND0
+RegDB Name: 1_1_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND1
+RegDB Name: 1_1_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND2
+RegDB Name: 1_1_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND3
+RegDB Name: 1_1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND4
+RegDB Name: 1_1_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND5
+RegDB Name: 1_1_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND6
+RegDB Name: 1_1_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND7
+RegDB Name: 1_1_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND8
+RegDB Name: 1_1_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND9
+RegDB Name: 1_1_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: CurrentAA
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away0
+RegDB Name: 2_1_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away2
+RegDB Name: 2_1_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away3
+RegDB Name: 2_1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away4
+RegDB Name: 2_1_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away5
+RegDB Name: 2_1_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away6
+RegDB Name: 2_1_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away7
+RegDB Name: 2_1_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away8
+RegDB Name: 2_1_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away9
+RegDB Name: 2_1_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline0
+RegDB Name: 3_1_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline1
+RegDB Name: 3_1_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline2
+RegDB Name: 3_1_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline3
+RegDB Name: 3_1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline4
+RegDB Name: 3_1_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline5
+RegDB Name: 3_1_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline6
+RegDB Name: 3_1_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline7
+RegDB Name: 3_1_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline8
+RegDB Name: 3_1_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline9
+RegDB Name: 3_1_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 3_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away1
+RegDB Name: 2_1_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\message.wav
+RegDB Name: SoundOnMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\execute.wav
+RegDB Name: SoundOnExecution
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\mass_message.wav
+RegDB Name: SoundOnMassMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\topic_change.wav
+RegDB Name: SoundOnTopic
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\nick_change.wav
+RegDB Name: SoundOnNick
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\me_line.wav
+RegDB Name: SoundOnMe
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\chat_line.wav
+RegDB Name: SoundOnLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\join_network.wav
+RegDB Name: SoundOnJoin
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\leave_network.wav
+RegDB Name: SoundOnLeave
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\channel_join.wav
+RegDB Name: SoundOnChan
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\channel_leave.wav
+RegDB Name: SoundOnChan2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\private_start.wav
+RegDB Name: SoundOnPrivate
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\private_finish.wav
+RegDB Name: SoundOnPrivate2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\beep.wav
+RegDB Name: SoundOnBeep
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 0
+RegDB Name: PlayInDND
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 1
+RegDB Name: PlayInAway
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 1
+RegDB Name: PlaySounds
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnExecution
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMassMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnTopic
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnNick
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMe
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnJoin
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnLeave
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnChan
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnChan2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnPrivate
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnPrivate2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnBeep
+RegDB Root: 1
+User Rights: Admin
+***  Installation Started 02/01/04 12:10  ***
+Title: quickChat 1.5 Installation
+Source: E:\WINDOWS\TEMP\~BDXSQXA.TMP
+File Overwrite: c:\Program Files\quickChat\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\quickChat 1.5
+RegDB Val: quickChat 1.5
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: quickChat 1.5
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\quickChat 1.5
+RegDB Val: C:\PROGRA~1\QUICKC~1\UNWISE.EXE C:\PROGRA~1\QUICKC~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: E:\PROGRA~1\QUICKC~1\UNWISE.EXE E:\PROGRA~1\QUICKC~1\INSTALL.LOG
+File Overwrite: c:\Program Files\quickChat\Default settings.reg
+File Overwrite: c:\Program Files\quickChat\Sounds\user_online.wav
+File Overwrite: c:\Program Files\quickChat\File_id.diz
+File Overwrite: c:\Program Files\quickChat\License.txt
+File Overwrite: c:\Program Files\quickChat\quickChat.exe
+File Overwrite: c:\Program Files\quickChat\Register.txt
+File Overwrite: c:\Program Files\quickChat\Russian\Contacts.txt
+File Overwrite: c:\Program Files\quickChat\Russian\File_id.diz
+File Overwrite: c:\Program Files\quickChat\Russian\ReadMe.txt
+File Overwrite: c:\Program Files\quickChat\Russian\Register.txt
+File Overwrite: c:\Program Files\quickChat\Russian\WhatsNew.txt
+File Overwrite: c:\Program Files\quickChat\Sounds\beep.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\channel_join.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\channel_leave.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\chat_line.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\execute.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\join_network.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\leave_network.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\mass_message.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\me_line.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\message.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\nick_change.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\private_finish.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\private_start.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\topic_change.wav
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Uninstall quickChat.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Registration info.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\Contacts.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\Whats New.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Registration Info.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\xUSSR Registration Info.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\License of Agreement.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\Автозагрузка\quickChat 1.5.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\quickChat 1.5.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Default settings.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: E:\WINDOWS\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: AllowExecution
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: AutoAnswer
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: CurrentNick
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: ExecPass
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: FlashInTray
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Gender
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 400
+RegDB Name: Height
+RegDB Root: 1
+RegDB Old: 400
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Top
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 500
+RegDB Name: Width
+RegDB Root: 1
+RegDB Old: 500
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Left
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 98
+RegDB Name: Splitter1
+RegDB Root: 1
+RegDB Old: 98
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 44
+RegDB Name: Splitter2
+RegDB Root: 1
+RegDB Old: 44
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 24
+RegDB Name: Splitter3
+RegDB Root: 1
+RegDB Old: 24
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 44
+RegDB Name: Splitter4
+RegDB Root: 1
+RegDB Old: 44
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: AllowChanList
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Language
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogChat
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: LogDir
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogMess
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogPriv
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: PopuponNewLine
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: PopuponPrivateChat
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: RefreshTime
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: SavePositionOnExit
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: ScrollChat
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: SendEmptyLine
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: SoundonOwnLine
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Status
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TabsPosition
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TabsStyle
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: TimestampSystem
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TimestampUser
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: Usetooltips
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: WindowState
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col0
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16711680
+RegDB Name: Col1
+RegDB Root: 1
+RegDB Old: 16711680
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 32768
+RegDB Name: Col2
+RegDB Root: 1
+RegDB Old: 32768
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 128
+RegDB Name: Col3
+RegDB Root: 1
+RegDB Old: 128
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 128
+RegDB Name: Col4
+RegDB Root: 1
+RegDB Old: 128
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8388736
+RegDB Name: Col5
+RegDB Root: 1
+RegDB Old: 8388736
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8388608
+RegDB Name: Col6
+RegDB Root: 1
+RegDB Old: 8388608
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8421376
+RegDB Name: Col7
+RegDB Root: 1
+RegDB Old: 8421376
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 12632256
+RegDB Name: Col8
+RegDB Root: 1
+RegDB Old: 12632256
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 255
+RegDB Name: Col9
+RegDB Root: 1
+RegDB Old: 255
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16711935
+RegDB Name: Col10
+RegDB Root: 1
+RegDB Old: 16711935
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col11
+RegDB Root: 1
+RegDB Old: 16777215
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col12
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col13
+RegDB Root: 1
+RegDB Old: 16777215
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col14
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col15
+RegDB Root: 1
+RegDB Old: 16777215
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col16
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col17
+RegDB Root: 1
+RegDB Old: 16777215
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col18
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col19
+RegDB Root: 1
+RegDB Old: 16777215
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: System
+RegDB Name: Name
+RegDB Root: 1
+RegDB Old: System
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 10
+RegDB Name: Size
+RegDB Root: 1
+RegDB Old: 10
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 1
+RegDB Name: Style
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 1
+RegDB Name: CharSet
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F12
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F10
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F11
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: NReceiveInDND
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: TReceiveInDND
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: NConfirm
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: TConfirm
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 1
+RegDB Name: UpdateHistory
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat\Socket
+RegDB Val: 8167
+RegDB Name: UDPPort
+RegDB Root: 1
+RegDB Old: 8167
+RegDB Key: Software\Stive\quickChat\Socket
+RegDB Val: 8167
+RegDB Name: IPXPort
+RegDB Root: 1
+RegDB Old: 8167
+RegDB Key: Software\Stive\quickChat\OnlineAlert
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Ignore
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ChannelsList
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Socket\UDPAdress
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND0
+RegDB Name: 1_1_0
+RegDB Root: 1
+RegDB Old: DND0
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_0
+RegDB Root: 1
+RegDB Old: User is currently DND
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND1
+RegDB Name: 1_1_1
+RegDB Root: 1
+RegDB Old: DND1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_1
+RegDB Root: 1
+RegDB Old: User is currently DND
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND2
+RegDB Name: 1_1_2
+RegDB Root: 1
+RegDB Old: DND2
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_2
+RegDB Root: 1
+RegDB Old: User is currently DND
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND3
+RegDB Name: 1_1_3
+RegDB Root: 1
+RegDB Old: DND3
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_3
+RegDB Root: 1
+RegDB Old: User is currently DND
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND4
+RegDB Name: 1_1_4
+RegDB Root: 1
+RegDB Old: DND4
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_4
+RegDB Root: 1
+RegDB Old: User is currently DND
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND5
+RegDB Name: 1_1_5
+RegDB Root: 1
+RegDB Old: DND5
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_5
+RegDB Root: 1
+RegDB Old: User is currently DND
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND6
+RegDB Name: 1_1_6
+RegDB Root: 1
+RegDB Old: DND6
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_6
+RegDB Root: 1
+RegDB Old: User is currently DND
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND7
+RegDB Name: 1_1_7
+RegDB Root: 1
+RegDB Old: DND7
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_7
+RegDB Root: 1
+RegDB Old: User is currently DND
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND8
+RegDB Name: 1_1_8
+RegDB Root: 1
+RegDB Old: DND8
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_8
+RegDB Root: 1
+RegDB Old: User is currently DND
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND9
+RegDB Name: 1_1_9
+RegDB Root: 1
+RegDB Old: DND9
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_9
+RegDB Root: 1
+RegDB Old: User is currently DND
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: CurrentAA
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away0
+RegDB Name: 2_1_0
+RegDB Root: 1
+RegDB Old: Away0
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_0
+RegDB Root: 1
+RegDB Old: User is currently away
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_1
+RegDB Root: 1
+RegDB Old: User is currently away
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away2
+RegDB Name: 2_1_2
+RegDB Root: 1
+RegDB Old: Away2
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_2
+RegDB Root: 1
+RegDB Old: User is currently away
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away3
+RegDB Name: 2_1_3
+RegDB Root: 1
+RegDB Old: Away3
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_3
+RegDB Root: 1
+RegDB Old: User is currently away
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away4
+RegDB Name: 2_1_4
+RegDB Root: 1
+RegDB Old: Away4
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_4
+RegDB Root: 1
+RegDB Old: User is currently away
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away5
+RegDB Name: 2_1_5
+RegDB Root: 1
+RegDB Old: Away5
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_5
+RegDB Root: 1
+RegDB Old: User is currently away
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away6
+RegDB Name: 2_1_6
+RegDB Root: 1
+RegDB Old: Away6
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_6
+RegDB Root: 1
+RegDB Old: User is currently away
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away7
+RegDB Name: 2_1_7
+RegDB Root: 1
+RegDB Old: Away7
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_7
+RegDB Root: 1
+RegDB Old: User is currently away
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away8
+RegDB Name: 2_1_8
+RegDB Root: 1
+RegDB Old: Away8
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_8
+RegDB Root: 1
+RegDB Old: User is currently away
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away9
+RegDB Name: 2_1_9
+RegDB Root: 1
+RegDB Old: Away9
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_9
+RegDB Root: 1
+RegDB Old: User is currently away
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline0
+RegDB Name: 3_1_0
+RegDB Root: 1
+RegDB Old: Offline0
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_0
+RegDB Root: 1
+RegDB Old: User is currently not available /Offline/
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline1
+RegDB Name: 3_1_1
+RegDB Root: 1
+RegDB Old: Offline1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_1
+RegDB Root: 1
+RegDB Old: User is currently not available /Offline/
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline2
+RegDB Name: 3_1_2
+RegDB Root: 1
+RegDB Old: Offline2
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_2
+RegDB Root: 1
+RegDB Old: User is currently not available /Offline/
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline3
+RegDB Name: 3_1_3
+RegDB Root: 1
+RegDB Old: Offline3
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_3
+RegDB Root: 1
+RegDB Old: User is currently not available /Offline/
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline4
+RegDB Name: 3_1_4
+RegDB Root: 1
+RegDB Old: Offline4
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_4
+RegDB Root: 1
+RegDB Old: User is currently not available /Offline/
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline5
+RegDB Name: 3_1_5
+RegDB Root: 1
+RegDB Old: Offline5
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_5
+RegDB Root: 1
+RegDB Old: User is currently not available /Offline/
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline6
+RegDB Name: 3_1_6
+RegDB Root: 1
+RegDB Old: Offline6
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_6
+RegDB Root: 1
+RegDB Old: User is currently not available /Offline/
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline7
+RegDB Name: 3_1_7
+RegDB Root: 1
+RegDB Old: Offline7
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_7
+RegDB Root: 1
+RegDB Old: User is currently not available /Offline/
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline8
+RegDB Name: 3_1_8
+RegDB Root: 1
+RegDB Old: Offline8
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_8
+RegDB Root: 1
+RegDB Old: User is currently not available /Offline/
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline9
+RegDB Name: 3_1_9
+RegDB Root: 1
+RegDB Old: Offline9
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_9
+RegDB Root: 1
+RegDB Old: User is currently not available /Offline/
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 3_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away1
+RegDB Name: 2_1_1
+RegDB Root: 1
+RegDB Old: Away1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\message.wav
+RegDB Name: SoundOnMessage
+RegDB Root: 1
+RegDB Old: Sounds\message.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\execute.wav
+RegDB Name: SoundOnExecution
+RegDB Root: 1
+RegDB Old: Sounds\execute.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\mass_message.wav
+RegDB Name: SoundOnMassMessage
+RegDB Root: 1
+RegDB Old: Sounds\mass_message.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\topic_change.wav
+RegDB Name: SoundOnTopic
+RegDB Root: 1
+RegDB Old: Sounds\topic_change.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\nick_change.wav
+RegDB Name: SoundOnNick
+RegDB Root: 1
+RegDB Old: Sounds\nick_change.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\me_line.wav
+RegDB Name: SoundOnMe
+RegDB Root: 1
+RegDB Old: Sounds\me_line.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\chat_line.wav
+RegDB Name: SoundOnLine
+RegDB Root: 1
+RegDB Old: Sounds\chat_line.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\join_network.wav
+RegDB Name: SoundOnJoin
+RegDB Root: 1
+RegDB Old: Sounds\join_network.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\leave_network.wav
+RegDB Name: SoundOnLeave
+RegDB Root: 1
+RegDB Old: Sounds\leave_network.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\channel_join.wav
+RegDB Name: SoundOnChan
+RegDB Root: 1
+RegDB Old: Sounds\channel_join.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\channel_leave.wav
+RegDB Name: SoundOnChan2
+RegDB Root: 1
+RegDB Old: Sounds\channel_leave.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\private_start.wav
+RegDB Name: SoundOnPrivate
+RegDB Root: 1
+RegDB Old: Sounds\private_start.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\private_finish.wav
+RegDB Name: SoundOnPrivate2
+RegDB Root: 1
+RegDB Old: Sounds\private_finish.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\beep.wav
+RegDB Name: SoundOnBeep
+RegDB Root: 1
+RegDB Old: Sounds\beep.wav
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 0
+RegDB Name: PlayInDND
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 1
+RegDB Name: PlayInAway
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 1
+RegDB Name: PlaySounds
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMessage
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnExecution
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMassMessage
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnTopic
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnNick
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMe
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnLine
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnJoin
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnLeave
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnChan
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnChan2
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnPrivate
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnPrivate2
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnBeep
+RegDB Root: 1
+RegDB Old: 0
+***  Installation Started 02/01/04 15:47  ***
+Title: quickChat 1.5 Installation
+Source: D:\DOCUME~1\hedghog\LOCALS~1\Temp\~DJYNXGN.tmp
+File Overwrite: c:\Program Files\quickChat\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\quickChat 1.5
+RegDB Val: quickChat 1.5
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\quickChat 1.5
+RegDB Val: C:\PROGRA~1\QUICKC~1\UNWISE.EXE C:\PROGRA~1\QUICKC~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Overwrite: c:\Program Files\quickChat\Default settings.reg
+File Overwrite: c:\Program Files\quickChat\Sounds\user_online.wav
+File Overwrite: c:\Program Files\quickChat\File_id.diz
+File Overwrite: c:\Program Files\quickChat\License.txt
+File Overwrite: c:\Program Files\quickChat\quickChat.exe
+File Overwrite: c:\Program Files\quickChat\Register.txt
+File Overwrite: c:\Program Files\quickChat\Russian\Contacts.txt
+File Overwrite: c:\Program Files\quickChat\Russian\File_id.diz
+File Overwrite: c:\Program Files\quickChat\Russian\ReadMe.txt
+File Overwrite: c:\Program Files\quickChat\Russian\Register.txt
+File Overwrite: c:\Program Files\quickChat\Russian\WhatsNew.txt
+File Overwrite: c:\Program Files\quickChat\Sounds\beep.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\channel_join.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\channel_leave.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\chat_line.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\execute.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\join_network.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\leave_network.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\mass_message.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\me_line.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\message.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\nick_change.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\private_finish.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\private_start.wav
+File Overwrite: c:\Program Files\quickChat\Sounds\topic_change.wav
+Made Dir: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Uninstall quickChat.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Registration info.lnk
+Made Dir: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\Contacts.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\Whats New.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Registration Info.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\xUSSR Registration Info.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\License of Agreement.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\Автозагрузка\quickChat 1.5.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\quickChat 1.5.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Default settings.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: D:\Documents and Settings\hedghog\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: AllowExecution
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: AutoAnswer
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: CurrentNick
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: ExecPass
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: FlashInTray
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Gender
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 400
+RegDB Name: Height
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Top
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 500
+RegDB Name: Width
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Left
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 98
+RegDB Name: Splitter1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 44
+RegDB Name: Splitter2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 24
+RegDB Name: Splitter3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 44
+RegDB Name: Splitter4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: AllowChanList
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Language
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogChat
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: LogDir
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogMess
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogPriv
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: PopuponNewLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: PopuponPrivateChat
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: RefreshTime
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: SavePositionOnExit
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: ScrollChat
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: SendEmptyLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: SoundonOwnLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Status
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TabsPosition
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TabsStyle
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: TimestampSystem
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TimestampUser
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: Usetooltips
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: WindowState
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16711680
+RegDB Name: Col1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 32768
+RegDB Name: Col2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 128
+RegDB Name: Col3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 128
+RegDB Name: Col4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8388736
+RegDB Name: Col5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8388608
+RegDB Name: Col6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8421376
+RegDB Name: Col7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 12632256
+RegDB Name: Col8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 255
+RegDB Name: Col9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16711935
+RegDB Name: Col10
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col11
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col12
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col13
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col14
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col15
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col16
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col17
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col18
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col19
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: System
+RegDB Name: Name
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 10
+RegDB Name: Size
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 1
+RegDB Name: Style
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 1
+RegDB Name: CharSet
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F12
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F10
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F11
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: NReceiveInDND
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: TReceiveInDND
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: NConfirm
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: TConfirm
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 1
+RegDB Name: UpdateHistory
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Socket
+RegDB Val: 8167
+RegDB Name: UDPPort
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Socket
+RegDB Val: 8167
+RegDB Name: IPXPort
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\OnlineAlert
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Ignore
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ChannelsList
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Socket\UDPAdress
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND0
+RegDB Name: 1_1_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND1
+RegDB Name: 1_1_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND2
+RegDB Name: 1_1_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND3
+RegDB Name: 1_1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND4
+RegDB Name: 1_1_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND5
+RegDB Name: 1_1_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND6
+RegDB Name: 1_1_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND7
+RegDB Name: 1_1_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND8
+RegDB Name: 1_1_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND9
+RegDB Name: 1_1_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: CurrentAA
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away0
+RegDB Name: 2_1_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away2
+RegDB Name: 2_1_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away3
+RegDB Name: 2_1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away4
+RegDB Name: 2_1_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away5
+RegDB Name: 2_1_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away6
+RegDB Name: 2_1_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away7
+RegDB Name: 2_1_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away8
+RegDB Name: 2_1_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away9
+RegDB Name: 2_1_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline0
+RegDB Name: 3_1_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline1
+RegDB Name: 3_1_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline2
+RegDB Name: 3_1_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline3
+RegDB Name: 3_1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline4
+RegDB Name: 3_1_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline5
+RegDB Name: 3_1_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline6
+RegDB Name: 3_1_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline7
+RegDB Name: 3_1_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline8
+RegDB Name: 3_1_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline9
+RegDB Name: 3_1_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 3_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away1
+RegDB Name: 2_1_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\message.wav
+RegDB Name: SoundOnMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\execute.wav
+RegDB Name: SoundOnExecution
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\mass_message.wav
+RegDB Name: SoundOnMassMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\topic_change.wav
+RegDB Name: SoundOnTopic
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\nick_change.wav
+RegDB Name: SoundOnNick
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\me_line.wav
+RegDB Name: SoundOnMe
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\chat_line.wav
+RegDB Name: SoundOnLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\join_network.wav
+RegDB Name: SoundOnJoin
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\leave_network.wav
+RegDB Name: SoundOnLeave
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\channel_join.wav
+RegDB Name: SoundOnChan
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\channel_leave.wav
+RegDB Name: SoundOnChan2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\private_start.wav
+RegDB Name: SoundOnPrivate
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\private_finish.wav
+RegDB Name: SoundOnPrivate2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\beep.wav
+RegDB Name: SoundOnBeep
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 0
+RegDB Name: PlayInDND
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 1
+RegDB Name: PlayInAway
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 1
+RegDB Name: PlaySounds
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnExecution
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMassMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnTopic
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnNick
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMe
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnJoin
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnLeave
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnChan
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnChan2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnPrivate
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnPrivate2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnBeep
+RegDB Root: 1
+User Rights: Admin
+***  Installation Started 02/01/04 16:55  ***
+Title: quickChat 1.5 Installation
+Source: C:\DOCUME~1\hed\LOCALS~1\Temp\~OEMXPZC.tmp
+File Overwrite: C:\Program Files\quickChat\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\quickChat 1.5
+RegDB Val: quickChat 1.5
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\quickChat 1.5
+RegDB Val: C:\PROGRA~1\QUICKC~1\UNWISE.EXE C:\PROGRA~1\QUICKC~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Overwrite: C:\Program Files\quickChat\Default settings.reg
+File Overwrite: C:\Program Files\quickChat\Sounds\user_online.wav
+File Overwrite: C:\Program Files\quickChat\File_id.diz
+File Overwrite: C:\Program Files\quickChat\License.txt
+File Overwrite: C:\Program Files\quickChat\quickChat.exe
+File Overwrite: C:\Program Files\quickChat\Register.txt
+File Overwrite: C:\Program Files\quickChat\Russian\Contacts.txt
+File Overwrite: C:\Program Files\quickChat\Russian\File_id.diz
+File Overwrite: C:\Program Files\quickChat\Russian\ReadMe.txt
+File Overwrite: C:\Program Files\quickChat\Russian\Register.txt
+File Overwrite: C:\Program Files\quickChat\Russian\WhatsNew.txt
+File Overwrite: C:\Program Files\quickChat\Sounds\beep.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\channel_join.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\channel_leave.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\chat_line.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\execute.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\join_network.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\leave_network.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\mass_message.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\me_line.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\message.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\nick_change.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\private_finish.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\private_start.wav
+File Overwrite: C:\Program Files\quickChat\Sounds\topic_change.wav
+Made Dir: C:\Documents and Settings\hed\Главное меню\Программы\quickChat
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Uninstall quickChat.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Registration info.lnk
+Made Dir: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\Contacts.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\Whats New.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Registration Info.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\xUSSR Registration Info.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\License of Agreement.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\Автозагрузка\quickChat 1.5.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\quickChat 1.5.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Default settings.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+Shell Link: C:\Documents and Settings\hed\Главное меню\Программы\quickChat\Russian\ReadMe.lnk
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: AllowExecution
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: AutoAnswer
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: CurrentNick
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: ExecPass
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: FlashInTray
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Gender
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 400
+RegDB Name: Height
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Top
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 500
+RegDB Name: Width
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Left
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 98
+RegDB Name: Splitter1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 44
+RegDB Name: Splitter2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 24
+RegDB Name: Splitter3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 44
+RegDB Name: Splitter4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: AllowChanList
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Language
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogChat
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 
+RegDB Name: LogDir
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogMess
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: LogPriv
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: PopuponNewLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: PopuponPrivateChat
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: RefreshTime
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: SavePositionOnExit
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: ScrollChat
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: SendEmptyLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: SoundonOwnLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: Status
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TabsPosition
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TabsStyle
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: TimestampSystem
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: TimestampUser
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 1
+RegDB Name: Usetooltips
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat
+RegDB Val: 0
+RegDB Name: WindowState
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16711680
+RegDB Name: Col1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 32768
+RegDB Name: Col2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 128
+RegDB Name: Col3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 128
+RegDB Name: Col4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8388736
+RegDB Name: Col5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8388608
+RegDB Name: Col6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 8421376
+RegDB Name: Col7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 12632256
+RegDB Name: Col8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 255
+RegDB Name: Col9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16711935
+RegDB Name: Col10
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col11
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col12
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col13
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col14
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col15
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col16
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col17
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 0
+RegDB Name: Col18
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Colors
+RegDB Val: 16777215
+RegDB Name: Col19
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ExecHistory
+RegDB Val: 
+RegDB Name: ExecHistory7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: System
+RegDB Name: Name
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 10
+RegDB Name: Size
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 1
+RegDB Name: Style
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\FontSetup
+RegDB Val: 1
+RegDB Name: CharSet
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F12
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F10
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\KeyMacros
+RegDB Val: 
+RegDB Name: F11
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: NReceiveInDND
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: TReceiveInDND
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: NConfirm
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\MessageFilters
+RegDB Val: 1
+RegDB Name: TConfirm
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 
+RegDB Name: Nick0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\NickHistory
+RegDB Val: 1
+RegDB Name: UpdateHistory
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Socket
+RegDB Val: 8167
+RegDB Name: UDPPort
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Socket
+RegDB Val: 8167
+RegDB Name: IPXPort
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\OnlineAlert
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Ignore
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\ChannelsList
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\Socket\UDPAdress
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND0
+RegDB Name: 1_1_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND1
+RegDB Name: 1_1_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND2
+RegDB Name: 1_1_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND3
+RegDB Name: 1_1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND4
+RegDB Name: 1_1_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND5
+RegDB Name: 1_1_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND6
+RegDB Name: 1_1_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND7
+RegDB Name: 1_1_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND8
+RegDB Name: 1_1_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: DND9
+RegDB Name: 1_1_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently DND
+RegDB Name: 1_2_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: CurrentAA
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away0
+RegDB Name: 2_1_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away2
+RegDB Name: 2_1_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away3
+RegDB Name: 2_1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away4
+RegDB Name: 2_1_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away5
+RegDB Name: 2_1_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away6
+RegDB Name: 2_1_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away7
+RegDB Name: 2_1_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away8
+RegDB Name: 2_1_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away9
+RegDB Name: 2_1_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently away
+RegDB Name: 2_2_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline0
+RegDB Name: 3_1_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_0
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline1
+RegDB Name: 3_1_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline2
+RegDB Name: 3_1_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline3
+RegDB Name: 3_1_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline4
+RegDB Name: 3_1_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_4
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline5
+RegDB Name: 3_1_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_5
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline6
+RegDB Name: 3_1_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_6
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline7
+RegDB Name: 3_1_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_7
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline8
+RegDB Name: 3_1_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_8
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Offline9
+RegDB Name: 3_1_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: User is currently not available /Offline/
+RegDB Name: 3_2_9
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: 
+RegDB Name: 3_3
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\AutoAnswers
+RegDB Val: Away1
+RegDB Name: 2_1_1
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\message.wav
+RegDB Name: SoundOnMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\execute.wav
+RegDB Name: SoundOnExecution
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\mass_message.wav
+RegDB Name: SoundOnMassMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\topic_change.wav
+RegDB Name: SoundOnTopic
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\nick_change.wav
+RegDB Name: SoundOnNick
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\me_line.wav
+RegDB Name: SoundOnMe
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\chat_line.wav
+RegDB Name: SoundOnLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\join_network.wav
+RegDB Name: SoundOnJoin
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\leave_network.wav
+RegDB Name: SoundOnLeave
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\channel_join.wav
+RegDB Name: SoundOnChan
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\channel_leave.wav
+RegDB Name: SoundOnChan2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\private_start.wav
+RegDB Name: SoundOnPrivate
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\private_finish.wav
+RegDB Name: SoundOnPrivate2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: Sounds\beep.wav
+RegDB Name: SoundOnBeep
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 0
+RegDB Name: PlayInDND
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 1
+RegDB Name: PlayInAway
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents
+RegDB Val: 1
+RegDB Name: PlaySounds
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnExecution
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMassMessage
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnTopic
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnNick
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnMe
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnLine
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnJoin
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnLeave
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnChan
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnChan2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnPrivate
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnPrivate2
+RegDB Root: 1
+RegDB Key: Software\Stive\quickChat\SoundEvents\Speaker
+RegDB Val: 0
+RegDB Name: OnBeep
+RegDB Root: 1
+User Rights: Admin
