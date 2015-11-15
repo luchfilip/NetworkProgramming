@@ -27,6 +27,16 @@ In order to analyze packets sent by QuickChat I followed the following steps:
 ![Packet Details](http://i.imgur.com/gH2AXSX.jpg "Packet Details")
 
 
+`DFEEL.20` enter away mode
+`3FEEL.WEED.0` change nickname from `FEEL` to `WEED`
+`2#Main.WEED.m essage.` user `WEED`, send message `message` to channel `Main`
+`2WEED.WEED. private.` send message `private` from `WEED` to `WEED` 
+`BNewTopic (WEE D).` change topic to `NewTopic (WEED)
+`5WEED.#UTM. 0` close channel `UTM`
+`4WEED.#UTM.20` join channel `UTM`
+
+
+
 
 ##### Keywords
 UDP, IP, BSD sockets, protocol, reverse engineering, sniffing, privacy, spoofing
