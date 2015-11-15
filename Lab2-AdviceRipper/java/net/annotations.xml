@@ -1,0 +1,5 @@
+<root>
+  <item name='java.net.InetAddress java.net.InetAddress getByName(java.lang.String, java.net.InetAddress)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>
