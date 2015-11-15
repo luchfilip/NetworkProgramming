@@ -48,7 +48,7 @@ Here is the list of events/actions and their meaning:
    `4WEED.#UTM.20` join channel `UTM`
 
 #### Conclusion
-While working on with packets sniffing I understood how simply packets are sent in QuickChat and their notation. Of course this is a bad practice to send the packets without encrypting them, because someone could as well capture the packets and read private messages of other participants. I would suggest two ways to overcome this issue:
+While working with packets sniffing I understood how simply packets are sent in QuickChat and their notation. Of course this is a bad practice to send the packets without encrypting them, because someone could as well capture the packets and read private messages of other participants. I would suggest two ways to overcome this issue:
 
 1. Send packets through an `SSL` certificate, which would encrypt the connection. In `Java` I would do it this way:
 
@@ -56,7 +56,7 @@ While working on with packets sniffing I understood how simply packets are sent 
          SSLSocketFactory ssf = (SSLSocketFactory) SSLSocketFactory.getDefault();
          Socket s = ssf.createSocket(ip_address, port);
 
-2. Encrypt the data manually. So that the client would encrypt the data with a generated key before send the data, then the server would decrypt, and read the message. 
+2. Encrypt the data manually. So that the client would encrypt the data with a key before sending it, then the server would decrypt, and read the message. 
 
 ##### Keywords
 UDP, IP, BSD sockets, protocol, reverse engineering, sniffing, privacy, spoofing
