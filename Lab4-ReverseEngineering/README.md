@@ -56,7 +56,9 @@ While working with packets sniffing I understood how simply packets are sent in 
          SSLSocketFactory ssf = (SSLSocketFactory) SSLSocketFactory.getDefault();
          Socket s = ssf.createSocket(ip_address, port);
 
-2. Encrypt the data manually. So that the client would encrypt the data with a key before sending it, then the server would decrypt, and read the message. 
+2. Encrypt the data manually. So that the client would encrypt the data with a key before sending it, then the server would decrypt, and read the message.
+
+In these ways, an attacker would not be able to see how exactly the commands are sent, thus, making it much harder to do actions he is not allowed to do.
 
 ##### Keywords
 UDP, IP, BSD sockets, protocol, reverse engineering, sniffing, privacy, spoofing
