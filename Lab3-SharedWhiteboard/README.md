@@ -12,7 +12,7 @@ First of all, I created a limited paint application, which has:
    * colors buttons
    * clear button
 
-!(whiteboard app)[http://i.imgur.com/oXajrAq.png "whiteboard application"]
+![whiteboard app](http://i.imgur.com/oXajrAq.png "whiteboard application")
 
 In order to achieve this, I extended `JComponent`, and used `Graphics2D` for drawing, and `DrawArea` to create an area where I can draw. 
 
