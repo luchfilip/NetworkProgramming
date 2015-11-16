@@ -9,7 +9,7 @@ IP must be used at the network layer.
 
 ####Server Features
 
-Server creates a thread for every connection on given port. It receives commands from all clients, and then responds with the coresponding answer to the client that has sent the command.
+Server creates a thread for every connection on given port. It receives commands from all clients, and then responds with the coresponding answer to the client that has sent the command. For every thread activity(client connect/disconnect) the server prints connection data in console. ex. connected/disconnected to/from xxx
 
 Server Commands:
    * `%Hastalavista`  if the server receives this command, it will terminate the connection and shut itself down;
@@ -25,7 +25,9 @@ Upon starting the client app, it connects to the give server on given port. Then
 
 When sending a command, the client prints the response in console. 
 
-When the server is shut down, all clients terminate themselves as well.
+When the server is shut down, all clients connected to it terminate themselves as well.
+
+When sending `%Close` command, the client terminates itself.
 
 ####Conclusion
 While creating a Server/Client Application using BSD Sockets, I understood how simple and fast, can a communication be established between two applications/devices. The tricky part was to create multi-threaded server; I had to refactor everything and adapt, so that the feature works as expected. 
