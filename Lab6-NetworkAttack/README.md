@@ -51,7 +51,7 @@ And when calling `checkshell.exists()` the following code is executed:
 
 As you can see, the server could not take it anymore, and stopped responding:
 
-![self dos](http://lh4.ggpht.com/-6g2iPXGc3Lw/USul3fBHf8I/AAAAAAAAAYM/fCVaC-YO-yA/s1600-h/Unbenannt%25255B5%25255D.jpg "self dos")
+![self dos](http://i.imgur.com/ACwFVne.jpg "self dos")
 
 But I haven't tried it myself, as I would have to create the server on Virtual Machine first, and it is on Windows.
 
