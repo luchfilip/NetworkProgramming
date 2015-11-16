@@ -6,7 +6,7 @@ As in keylogger case, again I tried to do my best in order to get this project d
 #####Trial #1: Bug or Feature?
 I have tried to create a simple server-client application and opened many many connections on same computer. Actually, by mistake on first laboratory work, while implementing multi-threading.
 
-I started about 5 instances of java application, which creates a lot of threads, after some time, my pc started to lag and upon analyzing the resources I saw that I am doing something wrong. This could be some kind of DOS(Denial Of Service), I denied my own service, by creating multiple instances of java; all together it used about 4 Gb of ram memory, out of 8 Gb. 
+I started about 5 instances of java application, which creates a lot of threads. After some time, my pc started to lag and upon analyzing the resources I saw that I am doing something wrong. This could be some kind of DOS(Denial Of Service), I consumed my own resources, by creating multiple instances of java; all together it used about 4 Gb of ram memory, out of 8 Gb. 
 
 The mistake was done mainly because:
    * I was not used to intelijIdea IDE (usually I use Android Studio)
@@ -51,7 +51,7 @@ And when calling `checkshell.exists()` the following code is executed:
 
 As you can see, the server could not take it anymore, and stopped responding:
 
-[self dos](http://lh4.ggpht.com/-6g2iPXGc3Lw/USul3fBHf8I/AAAAAAAAAYM/fCVaC-YO-yA/s1600-h/Unbenannt%25255B5%25255D.jpg "self dos")
+![self dos](http://lh4.ggpht.com/-6g2iPXGc3Lw/USul3fBHf8I/AAAAAAAAAYM/fCVaC-YO-yA/s1600-h/Unbenannt%25255B5%25255D.jpg "self dos")
 
 But I haven't tried it myself, as I would have to create the server on Virtual Machine first, and it is on Windows.
 
