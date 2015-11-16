@@ -22,7 +22,7 @@ In order to analyze packets sent by QuickChat I followed the following steps:
   * IP: 10.0.2.15 (which is the virtual machine ip in its virtual network inside virtualBox)
   * Source port: 57447
   * Destination port: 8167
-  * The data: `J2FEEL.FEEL.ma ma.` (I dont know what the space is doing between `ma` and `ma`, but this string should mean that a message is sent from FEEL to FEEl, and the message is `mama`)
+  * The data: `J2FEEL.FEEL.ma ma.` (I dont know what the space is doing between `ma` and `ma`, but this string should mean that a message is sent from FEEL to FEEL, and the message is `mama`)
 
 ![Packet Details](http://i.imgur.com/gH2AXSX.jpg "Packet Details")
 
@@ -33,7 +33,7 @@ I have tried to capture different events and see how they are formatted.
 
 Here is the list of events/actions and their meaning:
 
-   `DFEEL.20` enter away mode
+   `DFEEL.20` enter away mode (somehow I pressed a hotkey, and I entered away mode. I could not find anywhere how to go back to normal mode; but hapily I captured the packet, and now I can go in away mode without the hotkey, but simply by sending this packet)
 
    `3FEEL.WEED.0` change nickname from `FEEL` to `WEED`
    
