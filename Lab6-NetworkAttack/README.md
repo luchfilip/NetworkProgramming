@@ -57,7 +57,7 @@ But I haven't tried it myself, as I would have to create the server on Virtual M
 
 
 ####Conclusion
-Java is definitelly not for DOSing, I would preferably use Python, and give it a try. But at least I have seen how it works and how exactly a simple DOS applicat should work. 
+Java is definitelly not for DOSing, I would preferably use Python, and give it a try. But at least I have seen how it works and how exactly a simple DOS application should work. 
 
 In future, I will be more careful when working with multiple threads, and when requesting a lot of data from a server.
 
