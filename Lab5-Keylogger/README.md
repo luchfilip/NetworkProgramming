@@ -29,6 +29,8 @@ I used this library in order to get keystrokes from System, and then save them t
 Also, by using a timer, I am taking the screenshot of the display every 10 seconds, but I limited the number of screenshots
 to be made, to 10. 
 
+When the user presses `ESC`, the application terminates itself.
+
 See source code in order to check the implementation, the logs and screenshots.
  
 
@@ -45,13 +47,12 @@ only an admin can allow. When I first ran this project, OSX blocked the access:
 
 ![access](http://i.imgur.com/DgGw9RE.png "access")
 
-I had to allow my IDE, which runs the java application, to access global data. 
+I had to allow my IDE, which runs the java application, to control the computer. 
 
-In order to check if there is any program which logs user data I would suggest:
+In order to check if there is any program which logs user data, I would suggest the following:
 
    * Check which programs have access to control the system
-   * The captured data has to be sent to a server, else it would make to sense for the developer to implement it. So, 
-   I would suggest to close all applications, and analyze all open internet connections, on osx you would type the following in terminal: 
+   * The captured data has to be sent to a server, else it would make no sense for the developer to implement it. So, it would be a good idea to close all applications, and analyze all open internet connections, on osx you would type the following in terminal: 
    
         lsof -i | grep -E "(LISTEN|ESTABLISHED)"
        
